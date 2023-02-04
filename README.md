@@ -30,6 +30,7 @@ SECRET_KEY = "[ペースト位置]"
 ```bash
 python manage.py runserver
 ```
-Webブラウザで下記アドレスへアクセスすると、Djangoの初期画面が表示される。  
+Webブラウザで下記アドレスへアクセスすると、Top page(Hello World!)が表示される。  
 <http://127.0.0.1:8000/>
-![インストールは成功しました！おめでとうございます！](https://user-images.githubusercontent.com/84237053/216652715-62af8a9b-36aa-412e-9fae-08109df7833e.png)
+![Top-page](https://user-images.githubusercontent.com/84237053/216761933-61634d47-135d-4c9b-8f57-792e6e0574bf.png)
+
